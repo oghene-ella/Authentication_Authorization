@@ -1,0 +1,25 @@
+{
+  "name": "use_authentication_and_authorization",
+  "version": "1.0.0",
+  "description": "Upgrade the previous assignment to use authentication and authorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:index": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oghene-ella/Servers_APIs_Express.git"
+  },
+  "author": "Ellahhh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oghene-ella/Servers_APIs_Express/issues"
+  },
+  "homepage": "https://github.com/oghene-ella/Servers_APIs_Express#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
